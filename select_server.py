@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+Doc https://pymotw.com/2/select/
+"""
 
 import select
 import socket
